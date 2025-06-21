@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m **Didar**, a passionate **Backend developer*
 
 ## 🌐 Connect with Me
 
-[![Telegram Badge](https://img.shields.io/badge/-@Didar-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://web.telegram.org/k/#@kl_didar)](https://web.telegram.org/k/#@didaroff_2008)
+[![Telegram Badge](https://img.shields.io/badge/-@Didar-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://web.telegram.org/k/#@kl_didar)](https://web.telegram.org/k/#@kl_didar)
 [![GitHub Badge](https://img.shields.io/badge/-Didar-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/freelance-didar) 
 [![StackOverflow Badge](https://img.shields.io/badge/-Didar-f48024?style=flat&labelColor=f48024&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27971519/didar) 
 [![Instagram Badge](https://img.shields.io/badge/-@Didar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/user0830228/) 
@@ -26,13 +26,13 @@ Welcome to my GitHub profile! I’m **Didar**, a passionate **Backend developer*
 
 ## 💻 Projects I'm Proud Of
 
-- **Advanced E-commerce Website**: A Django-based online store with custom user models, CKEditor integration, and dynamic product listings. [Django Ecommerce](https://github.com/didar-off/django-ecommerce)
-- **Instagram Clone**: Built a fully functional instagram clone in Django with a lots of cool feature. [Instagram Clone](https://github.com/didar-off/instagram-clone)
-- **Netflex Clone**: Built a fully functional instagram clone in Django with a lots of cool feature. [Netflex Clone](https://github.com/didar-off/netflex-clone)
+- **Advanced E-commerce Website**: A Django-based online store with custom user models, CKEditor integration, and dynamic product listings. [Django Ecommerce](https://github.com/freelance-didar/)
+- **Instagram Clone**: Built a fully functional instagram clone in Django with a lots of cool feature. [Instagram Clone](https://github.com/freelance-didar/)
+- **Netflex Clone**: Built a fully functional instagram clone in Django with a lots of cool feature. [Netflex Clone](https://github.com/freelance-didar/)
 - **Portfolio Website**: My personal website showcasing my projects and skills. [In progress](https://google.com)
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=didar-off&bg_color=000000&title_color=ffffff&text_color=989898&show_icons=true&icon_color=ffffff"/>
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didar-off&layout=compact&bg_color=000000&title_color=ffffff&text_color=989898&show_icons=true&icon_color=ffffff"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=freelance-didar&bg_color=000000&title_color=ffffff&text_color=989898&show_icons=true&icon_color=ffffff"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freelance-didar&layout=compact&bg_color=000000&title_color=ffffff&text_color=989898&show_icons=true&icon_color=ffffff"/>
 
 ## ⚡ Goals for the Future
 
