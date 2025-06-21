@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m **Didar**, a passionate **Backend developer*
 [![Email Badge](https://img.shields.io/badge/-Didar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:freelance.didar@gmail.com)
 
 ## 🔨 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,github,py,django,vscode,powershell,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,github,docker,py,django,vscode,sublime,powershell,notion,ps,ai)](https://skillicons.dev)
 
 ## 💻 Projects I'm Proud Of
 
